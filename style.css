@@ -1,0 +1,13 @@
+body{
+    background-image: url('star-wars.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    color: white;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
