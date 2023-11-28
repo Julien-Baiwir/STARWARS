@@ -4,10 +4,14 @@ body{
     background-size: cover;
     height: 100vh;
     background-position: center;
-    color: white;
 }
 
 h1{
     color: blue;
     text-align: center;
+}
+
+p {
+    color: rgb(255, 174, 0);
+    text-align: center; 
 }
